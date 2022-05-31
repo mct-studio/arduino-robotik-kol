@@ -1,5 +1,10 @@
 # arduino-robotik-kol
 
+Bu projemizde arduino kullanarak joystick aracılığı ile 2 servo motor ve pan/tilt den oluşan bir robotik kolun kontrolünü sağlayan bir örnek geliştiriyoruz.
+
+
+In this project, we are developing an example that enables the control of a robotic arm consisting of 2 servo motors and pan/tilt via joystick using arduino.
+
 ## Bileşenler
 * Arduino Uno
 * 2 Mini Servo Motor (SG90)
